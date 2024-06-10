@@ -39,4 +39,6 @@ Lembre-se, a programação é uma jornada contínua, e não importa o quão expe
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](woliveiravix@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bigserial_dev/)
 
+[![wakatime](https://wakatime.com/badge/user/0910967f-e252-431a-99d7-98f76e29879b.svg)](https://wakatime.com/@0910967f-e252-431a-99d7-98f76e29879b)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGSerial)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiGSerial&show_icons=true&theme=radical)
