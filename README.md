@@ -41,4 +41,5 @@ Lembre-se, a programação é uma jornada contínua, e não importa o quão expe
 
 [![wakatime](https://wakatime.com/badge/user/0910967f-e252-431a-99d7-98f76e29879b.svg)](https://wakatime.com/@0910967f-e252-431a-99d7-98f76e29879b)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGSerial)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiGSerial&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGSerial)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiGSerial&show_icons=true&theme=radical)
