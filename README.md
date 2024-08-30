@@ -16,9 +16,16 @@ Sou desenvolvedor focado em soluções web, com experiência em PHP, Laravel e L
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BiGSerial&show_icons=true&theme=dracula)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGSerial&layout=compact&theme=dracula)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BiGSerial&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiGSerial&layout=compact&theme=dracula" alt="Linguagens Mais Usadas">
+    </td>
+  </tr>
+</table>
 
 ---
 
