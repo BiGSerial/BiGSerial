@@ -1,10 +1,10 @@
-# Olá! Eu sou o BiG (Will Oliveira) 👋
+# Hello! I'm BiG (Will Oliveira) 👋
 
-Sou desenvolvedor focado em soluções web, com experiência em PHP, Laravel e Livewire. Meu trabalho envolve criar sistemas robustos e escaláveis, utilizando o framework CSS Bootstrap para design responsivo e acessível. Possuo conhecimentos básicos em JavaScript para enriquecer a interatividade das aplicações.
+I am a web-focused developer with experience in PHP, Laravel, and Livewire. My work involves creating robust and scalable systems using the Bootstrap CSS framework for responsive and accessible design. I have basic knowledge of JavaScript to enhance the interactivity of applications.
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages and Tools
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -15,15 +15,15 @@ Sou desenvolvedor focado em soluções web, com experiência em PHP, Laravel e L
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=BiGSerial&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiGSerial&layout=compact&theme=dracula" alt="Linguagens Mais Usadas">
+    <img src="https://github-readme-stats.vercel.app/api?username=BiGSerial&show_icons=true&theme=dracula" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiGSerial&layout=compact&theme=dracula" alt="Top Languages">
 </div>
+
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - [GitHub](https://github.com/BiGSerial)
-
